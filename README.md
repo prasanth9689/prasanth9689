@@ -14,3 +14,6 @@ https://gist.github.com/prasanth9689/9259688a43d273f04128656579d02293
 
 Gradle.kts (Project)
 https://gist.github.com/prasanth9689/21f6b22ed35687f97d12d54150bbb857
+
+Gradle.kts (libs.versions.tomal)
+https://gist.github.com/prasanth9689/c6feae2fcc9cfae34880da145b82337e
