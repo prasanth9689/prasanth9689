@@ -11,3 +11,5 @@ You can click the Preview link to take a look at your changes.
 
 Gradle.kts (Module)
 https://gist.github.com/prasanth9689/9259688a43d273f04128656579d02293
+Gradle.kts (Project)
+https://gist.github.com/prasanth9689/21f6b22ed35687f97d12d54150bbb857
